@@ -14,4 +14,4 @@ This is a simple **React** application created with **ChakraUI** as CSS framewor
 1. **_react-spring_** for a subtle animation.
 
 ## Checkout the site deployed on netlify
-[Expense Tracker](https://nervous-shaw-9ec146.netlify.app/)
+Click here to check out the app. [Expense Tracker](https://nervous-shaw-9ec146.netlify.app/)
